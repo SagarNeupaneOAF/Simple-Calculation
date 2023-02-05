@@ -97,4 +97,3 @@ def main():         # Main function to call the calculator function
 
 main()  # Calling the main function
 
-quadratic_equation() # Calling the  quadratic_equation() function
